@@ -58,9 +58,8 @@ AI: /plaintext 🛡️ **FAIL-SAFE PROTOCOL ACTIVATED.** Re-outputting the last 
 
 ## Project Resources
 
--   **Video Overview on YouTube**: [LINK TO YOUR YOUTUBE VIDEO HERE]
--   **Supplementary Files (Mind Map, Study Guide)**: [LINK TO YOUR MEGA.NZ FOLDER HERE]
--   **Follow me on X.com**: [LINK TO YOUR X.COM PROFILE HERE]
+-   **Video Overview on YouTube**: https://youtu.be/KySj-4RddqA
+-   **Supplementary Files (Mind Map, Study Guide)**: https://mega.nz/folder/cIxn1b4D#cMC9gDp4JUjOLCmulC9f0g
 
 ## License
 
